@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Blockchain-voting-application/static/css/main.808ba034.css",
+    "main.js": "/Blockchain-voting-application/static/js/main.51668b26.js",
+    "static/js/787.b701888c.chunk.js": "/Blockchain-voting-application/static/js/787.b701888c.chunk.js",
+    "index.html": "/Blockchain-voting-application/index.html",
+    "main.808ba034.css.map": "/Blockchain-voting-application/static/css/main.808ba034.css.map",
+    "main.51668b26.js.map": "/Blockchain-voting-application/static/js/main.51668b26.js.map",
+    "787.b701888c.chunk.js.map": "/Blockchain-voting-application/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.808ba034.css",
+    "static/js/main.51668b26.js"
+  ]
+}
